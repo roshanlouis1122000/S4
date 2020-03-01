@@ -1,0 +1,5 @@
+echo "No of arguements:$#"
+echo "Name of shell scriPt:$0"
+echo "First Arguement:$1"
+echo "Second Arguement : $2"
+echo "Third Arguement:$3" 
